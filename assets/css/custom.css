@@ -8,6 +8,11 @@ body {
   font-size: 1.6rem;
 }
 
+a {
+  color: #111111;
+  font-weight: 500;
+}
+
 body .markdown-body {
   font-family: Inter, sans-serif;
 }
@@ -32,7 +37,7 @@ body .markdown-body h2 {
 
 body .markdown-body h3 {
   font-size: 1.4rem;
-  line-height: 1.6rem;
+  line-height: 2rem;
 }
 
 body .markdown-body hr {
