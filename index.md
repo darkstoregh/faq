@@ -1,6 +1,8 @@
 # FAQs
 
-Last Updated: 02/24/2021
+##### Last Updated: 02/24/2021
+
+---
 
 ## Contacting Support
 
