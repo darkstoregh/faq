@@ -44,3 +44,8 @@ body .markdown-body hr {
   height: 1px;
   background-color: #f2f2f2;
 }
+
+body .markdown-body ul,
+body .markdown-body ol {
+  padding-left: 1.8rem;
+}
