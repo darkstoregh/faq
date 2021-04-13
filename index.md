@@ -1,9 +1,3 @@
-# FAQs
-
-##### Last Updated: 02/24/2021
-
----
-
 ## Contacting Support
 
 ### How do I contact customer support?
