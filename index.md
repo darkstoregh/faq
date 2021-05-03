@@ -103,7 +103,7 @@ At this time all payments on the FastAF app are completed through Apple pay.
 
 ### What is the delivery fee for FastAF?
 
-We are currently waiving all delivery fees.
+The delivery fee is free for orders with a subtotal greater than $35.00, and $9.99 for orders with a subtotal less than $35.00.
 
 ### The app is saying my address is not within the delivery zone?
 
@@ -161,6 +161,10 @@ We actually restock our inventory regularly. Keep an eye on the app, you should 
 
 Our delivery windows are the same every day, orders must be placed 30 minutes prior to the start of the delivery window in order to be included in that window.
 Delivery Windows: 8-10AM, 10-12PM, 12-2PM, 2-4PM, 4-6PM, 6-8PM, 8-10PM, 10-12AM;
+
+### Why do you charge more for certain products than the brands to on their site or in their stores?
+
+While we partner with the majority of the brands on our platform, some of our brands are not our partner brands yet. Therefore, when you place these orders on our app, you may see prices marked up to offset the cost of delivery and buying.
 
 ---
 
