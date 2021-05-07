@@ -192,7 +192,7 @@ The parameters of any promo code are included in the notifications sent out via 
 
 ### What is the FastAF referral program?
 
-Your unique referral code will discount $20.00 off a new users order with a subtotal of $35.00 or more. In addition to giving your friends a discount you will also accrue $20.00 of referral credit once their order is delivered. You can find your referral code in your account settings.
+Your unique referral code will discount $20.00 off a new users order. In addition to giving your friends a discount you will also accrue $20.00 of referral credit once their order is delivered. You can find your referral code in your account settings.
 
 ### Where do I enter my friends referral code?
 
