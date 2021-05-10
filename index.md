@@ -34,7 +34,7 @@ FastAF does not handle exchanges. You can, however, return a qualified product a
 
 ### Can I return my item?
 
-FastAF Customers have the right to request product returns at no additional charge within 30 days after the initial delivery date. FastAF does not process exchanges; only returns and refunds. In order to exercise this policy, the returned item must meet the following requirements: The item is not on FastAF’s list of Non-Returnable Products and Product Categories.
+FastAF Customers have the right to request product returns at no additional charge within 14 days after the initial delivery date. FastAF does not process exchanges; only returns and refunds. In order to exercise this policy, the returned item must meet the following requirements: The item is not on FastAF’s list of Non-Returnable Products and Product Categories.
 
 ### How do I return my item?
 
