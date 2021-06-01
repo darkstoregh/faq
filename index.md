@@ -89,9 +89,21 @@ At this time we currently do not offer a gift/note option. It's something we're 
 
 Sorry to hear that! Please send a text message to our customer support team at [(415) 322-5900](tel:415-322-5900). Our support team will work with you to get the issue resolved fast.
 
-### When will I receive my refund?
+### Can I return or exchange my FastAF purchase?
 
-Most refunds are fully refunded in 3-5 days after we receive and process the return. Refunds are issued to the method of payment that was used for the original transaction.
+Customers can request a return at no additional charge within 14 days of the initial delivery date. FastAF does not process exchanges, only returns and refunds.
+
+### What if I bought the item I want to return with a promo code?
+
+Returned items purchased with a promo code will NOT have the promo code value returned. Promotional Sale items are deemed as FINAL SALE and non-refundable.
+
+### When will I get a refund for my return?
+
+Once the item is returned to the warehouse, a refund back to the original payment method will be initiated within 24 hours. The funds may take 5-10 business days before being made available in your account by your financial institution.
+
+### Can I be refunded if my item is damaged or not in its original condition?
+
+Refund amounts may vary. Items that are damaged, missing parts, not in the original condition/packaging, or have obvious signs of use for reasons not due to FastAF error will be refunded up to 50%.
 
 ### What forms of payment can I use for my order?
 
