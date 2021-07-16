@@ -18,7 +18,7 @@ You can see the progress of your order in the FastAF app and track exactly where
 
 ### I placed an order but received an error message upon payment.
 
-Please reach out to FastAF Customer Support. Support may ask you for additional information, including screenshots of your order, cart and error messages.
+Please reach out to FastAF Customer Support. Support may ask you for additional information, including screenshots of your order, cart, and error messages.
 
 ### I never received my FastAF order/an item is missing/received an incorrect item.
 
@@ -184,7 +184,7 @@ While we partner with the majority of the brands on our platform, some of our br
 
 ### What are the promo code usage guidelines?
 
-Promo codes are limited to one use, per customer, per order. These codes are entered at the time of check out in the box above delivery window selection.
+Promo codes are limited to one use, per customer, per order, and per household. These codes are entered at the time of check out in the box above delivery window selection.
 
 ### How do I know when a promo code drops?
 
