@@ -18,7 +18,7 @@ You can see the progress of your order in the FastAF app and track exactly where
 
 ### I placed an order but received an error message upon payment.
 
-Please reach out to FastAF Customer Support. Support may ask you for additional information, including screenshots of your order, cart, and error messages.
+Please reach out to FastAF Customer Support. Support may ask you for additional information, including screenshots of your order, cart and error messages.
 
 ### I never received my FastAF order/an item is missing/received an incorrect item.
 
