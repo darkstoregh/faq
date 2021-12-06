@@ -72,7 +72,7 @@ Customers can request a return at no additional charge within 14 days of the ini
 
 ### What if I bought the item I want to return with a promo code?
 
-Returned items purchased with a promo code will NOT have the promo code value returned. Orders with promo codes will have the item value returned as STORE CREDIT ONLY.
+Returned items purchased with a promo code will NOT have the promo code value returned. Most promo codes will allow customers to return items for STORE CREDIT ONLY, some exclusive promo events are FINAL SALE.
 
 ### Can I be refunded if my item is damaged or not in its original condition?
 
