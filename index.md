@@ -92,7 +92,7 @@ Refund amounts may vary. Items that are damaged, missing parts, not in the origi
 
 ### When will I get a refund for my return?
 
-Once the item is returned to the warehouse, a refund back to the original payment method will be initiated within 24 hours. The funds may take 5-10 business days before being made available in your account by your financial institution.
+Once the item is returned to the warehouse, it will be evaluated for possible damages, missing parts/original packaging or obvious signs of use to determine the refund value.  A refund of either store credit or original payment method will be initiated within 24 hours based on the order details, specifically if a promo code/offer was applied and/or if item is part of an exclusive collection. The funds may take 5-10 business days before being available in your account by your financial institution.
 
 ---
 
