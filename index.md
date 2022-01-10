@@ -68,7 +68,7 @@ At this time we currently do not offer a gift/note option. It's something we're 
 
 ### Can I return or exchange my FastAF purchase?
 
-Customers can request a return at no additional charge within 14 days of the initial delivery date. FastAF does not handle exchanges, only returns and refunds.
+Customers can request a return at no additional charge within 14 days of the initial delivery date. FastAF does not handle exchanges, only returns and refunds. Due to precautions related to Covid-19, beverages, snacks and face masks are non-returnable.
 
 ### What if I bought the item I want to return with a promo code?
 
