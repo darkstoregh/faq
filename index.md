@@ -108,10 +108,10 @@ FastAF uses Apple Pay and credit cards to process payments from our customers.
 
 ### What is the delivery fee for FastAF?
 
-- Subtotal more than $35.00: Free
-- Subtotal less than $35.00: $9.99
+- Subtotal more than $35.00: $4.95
+- Subtotal less than $35.00: $9.95
+- Driver Benefits & Fuel Support Fee: $5.00
 - Subtotals are calculated after any promotional code has been applied.
-- CA Driver Benefits: $2.00 (Applicable to orders placed in California)
 
 ### The app is saying my address is not within the delivery zone?
 
