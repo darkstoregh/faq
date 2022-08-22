@@ -2,7 +2,7 @@
 
 ### How do I contact customer support?
 
-Shoot us a text. You can reach our customer support team at [(415) 322-5900](tel:415-322-5900) for immediate assistance on any support inquiry.
+Shoot us a text. You can reach our customer support team at [(415) 322-5900](tel:415-322-5900) for immediate assistance on any support inquiry. Hours of support are 8am-5pm EST.
 
 ### Do you guys do email support?
 
@@ -108,10 +108,11 @@ FastAF uses Apple Pay and credit cards to process payments from our customers.
 
 ### What is the delivery fee for FastAF?
 
-- Subtotal more than $35.00: $4.95
-- Subtotal less than $35.00: $9.95
-- Driver Benefits & Fuel Support Fee: $5.00
+- (NYC) Subtotal more than $35.00: $4.95
+- (NYC) Subtotal less than $35.00: $9.95
+- (NYC) Driver Benefits & Fuel Support Fee: $5.00
 - Subtotals are calculated after any promotional code has been applied.
+- Nationwide shipping fee: $9.95 flat.
 
 ### The app is saying my address is not within the delivery zone?
 
@@ -135,7 +136,7 @@ Sign in or create an account using your phone number, and receive a verification
 
 ### I'm not receiving a verification code
 
-It’s possible you’ve unsubscribed from the verification code service. To proceed, you will need to text START to (310)943-1226 before attempting to resend the verification code.
+It’s possible you’ve unsubscribed from the verification code service. To proceed, you will need to text START to [(310) 943-1226](tel:310-943-1226) before attempting to resend the verification code.
 
 ### How do I reset my password?
 
@@ -171,7 +172,7 @@ We actually restock our inventory regularly. Keep an eye on the app, you should 
 
 ### What delivery windows are available?
 
-Our delivery windows are the same every day (with the exception of select holidats), orders must be placed 30 minutes prior to the start of the delivery window in order to be included in that window. Delivery Windows: 8-10AM, 10-12PM, 12-2PM, 2-4PM, 4-6PM, 6-8PM, and 8-10PM;
+Our delivery windows are the same every day (with the exception of select holidays). With our new support of nationwide shipping delivery windows will be dynamically based on your zipcode.
 
 ### Why are there no available delivery windows?
 
