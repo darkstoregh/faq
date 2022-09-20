@@ -2,11 +2,8 @@
 
 ### How do I contact customer support?
 
-Shoot us a text. You can reach our customer support team at [(415) 322-5900](tel:415-322-5900) for immediate assistance on any support inquiry. Hours of support are 8am-5pm EST.
-
-### Do you guys do email support?
-
-For a quick response, you should text support. If you prefer to contact us via email, feel free to email <support@fastaf.com>.
+Shoot us an email at support@fastaf.com or join our community on [Discord](https://discord.gg/fhCUSVUX). 
+Customer Support Hours: 8am-5pm EST. 
 
 ---
 
@@ -14,15 +11,23 @@ For a quick response, you should text support. If you prefer to contact us via e
 
 ### Where is my order?
 
-You can see the progress of your order in the FastAF app and track exactly where your order is in the fulfillment and delivery process.
+If you have a local delivery, direct tracking and real-time driver tracking updates are available on the FastaAF App after you’ve placed your order. 
+If you have a global delivery, you will receive direct fulfillment related updates, and an expected delivery date confirmation. 
 
 ### I placed an order but received an error message upon payment.
 
-Please reach out to FastAF Customer Support. Support may ask you for additional information, including screenshots of your order, cart, and error messages.
+Please reach out to support@fastaf.com. Additional information including screenshots of your order, cart, and error messages may be needed. 
 
 ### I never received my FastAF order/an item is missing/received an incorrect item.
 
-Sorry to hear that. Please reach out to FastAF Customer Support. Our support team will work with you to get the issue resolved fast.
+Sorry to hear that. Please reach out to support@fastaf.com with your order number. Our support team will work with you to get the issue resolved fast.
+
+### My T-Shirt (or merch item) doesn’t fit. Can I exchange for a different size? 
+
+Yes, within 14 days of receiving your order. Customer Support will issue you a new return label and you will get refunded for the original order once it is received. You will need to place a new order to receive a new size.
+
+### I am not satisfied with my item. Can I get a refund? 
+Yes, within 14 days of receiving your order. Customer Support will issue you a new return label and you will get refunded for the original order once it is received. Products must be unused and unopened still in their original packaging with tags attached.
 
 ### How do I cancel my order?
 
@@ -34,11 +39,7 @@ We are not able to accommodate any order updates or delivery window changes. You
 
 ### I was not satisfied with my delivery.
 
-We’re really sorry to hear that. Please reach out to FastAF Customer Support as we want to make sure that your experience was nothing less than amazing. We want your feedback and want to make it right.
-
-### How can I recommend a brand I’d like to see on the FastAF app?
-
-We want your feedback. If you have a brand you would love to see on FastAF there is a section to suggest brands at the bottom of the app home page.
+We’re really sorry to hear that. Please reach out to support@fastaf.com with your order number as we want to make sure that your experience was nothing less than amazing. We want your feedback and want to make it right.
 
 ### Can I place an order and have it sent to a non-residential address?
 
@@ -54,7 +55,7 @@ Your orders are picked up from our facility and delivered to your shipping addre
 
 ### When will my order be delivered?
 
-Your order will be delivered during the delivery window selected at the time of check out.
+Your order will be delivered during the delivery timeframe selected at the time of check out.
 
 ### Can I change my delivery address?
 
@@ -62,7 +63,7 @@ Delivery addresses are automatically inputted at the time of dispatch. If you wo
 
 ### Do you offer any gift options?
 
-At this time we currently do not offer a gift/note option. It's something we're definitely looking to add in 2021. Though we do not include any type of receipts on the orders so there will be no prices listed on the order. FastAF bag will only have a label with the delivery name, address, and order number.
+Yes! Simply tap on the “Send as a Gift” option on the Checkout Screen. Recipients will receive a custom web-link to track their order, and a personalized gift message.
 
 ## Return Process
 
@@ -201,19 +202,3 @@ Promo codes are only valid during the dates specified. If you are unsure if a co
 ### Does my order qualify for a promo code?
 
 The parameters of any promo code are included in the notifications sent out via email, specifying which items/categories are included in the promotion. If you are unsure if your order qualifies for the promo code you're trying to apply at checkout, please reach out to FastAF Customer Support.
-
----
-
-## Referral Codes/ Inquiries
-
-### What is the FastAF referral program?
-
-Your unique referral code will discount $20.00 off a new users order. In addition to giving your friends a discount you will also accrue $20.00 of referral credit once their order is delivered. You can find your referral code in your account settings.
-
-### Where do I enter my friends referral code?
-
-Referral codes can be entered at the time of check out in the box above delivery window selection.
-
-### When will I receive my referral credit?
-
-Referral credit is deposited into your account once the order containing your code is delivered and marked as complete. If the order has already been completed and you still have not received the referral credit please contact reach out to FastAF Customer Support.
