@@ -2,7 +2,7 @@
 
 ### How do I contact customer support?
 
-Shoot us an email or join our community on [Discord](https://discord.gg/fhCUSVUX). 
+Shoot us an email at support@fastaf.com or join our community on [Discord](https://discord.gg/fhCUSVUX). 
 Customer Support Hours: 8am-5pm EST. 
 
 ---
